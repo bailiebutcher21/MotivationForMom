@@ -1,0 +1,28 @@
+body{
+    background-color: #f8e8ff;
+    border-spacing: 10px;
+}
+th, td {
+    text-align: center;
+    background-position: center;
+    padding: 15px
+}
+.p {
+    text-align-all: center;
+}
+.maincontent{
+
+}
+.socialmedia{
+    text-align: center;
+    border: 1px solid black;
+    width: 100%;
+
+}
+image {
+    background-color: white;
+}
+.blogcategories{
+    text-align: center;
+    border: 1px solid black;
+}
